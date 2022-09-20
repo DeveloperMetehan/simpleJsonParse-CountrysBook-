@@ -1,0 +1,6 @@
+framework module Pods_SimpleJsonParse {
+  umbrella header "Pods-SimpleJsonParse-umbrella.h"
+
+  export *
+  module * { export * }
+}
